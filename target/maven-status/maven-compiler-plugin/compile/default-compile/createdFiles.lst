@@ -1,0 +1,10 @@
+com/baeldung/springsoap/gen/package-info.class
+com/baeldung/springsoap/gen/GetCountryRequest.class
+com/stuti/soap/project/Application.class
+com/baeldung/springsoap/gen/ObjectFactory.class
+com/stuti/soap/project/WebServiceConfig.class
+com/stuti/soap/project/CountryEndpoint.class
+com/stuti/soap/project/CountryRepository.class
+com/baeldung/springsoap/gen/Currency.class
+com/baeldung/springsoap/gen/Country.class
+com/baeldung/springsoap/gen/GetCountryResponse.class
